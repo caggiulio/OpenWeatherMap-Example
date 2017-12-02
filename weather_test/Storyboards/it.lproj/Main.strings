@@ -1,0 +1,45 @@
+
+/* Class = "UILabel"; text = "Sunrise"; ObjectID = "00L-ZP-DSy"; */
+"00L-ZP-DSy.text" = "Sunrise";
+
+/* Class = "UIButton"; normalTitle = "View on Map"; ObjectID = "07S-YU-NXW"; */
+"07S-YU-NXW.normalTitle" = "View on Map";
+
+/* Class = "UILabel"; text = "Sunset"; ObjectID = "0eb-fG-EpU"; */
+"0eb-fG-EpU.text" = "Sunset";
+
+/* Class = "UILabel"; text = "Max"; ObjectID = "6HQ-U5-nUa"; */
+"6HQ-U5-nUa.text" = "Max";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Bw1-m2-aMD"; */
+"Bw1-m2-aMD.text" = "Label";
+
+/* Class = "UILabel"; text = "Min"; ObjectID = "EuV-qW-v6P"; */
+"EuV-qW-v6P.text" = "Min";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Sno-Mm-9nX"; */
+"Sno-Mm-9nX.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Xs0-cx-3IK"; */
+"Xs0-cx-3IK.text" = "Label";
+
+/* Class = "UISearchBar"; placeholder = "Search your city"; ObjectID = "cax-2G-zjf"; */
+"cax-2G-zjf.placeholder" = "Search your city";
+
+/* Class = "UISearchBar"; cax-2G-zjf.scopeButtonTitles[0] = "Title"; ObjectID = "cax-2G-zjf"; */
+"cax-2G-zjf.scopeButtonTitles[0]" = "Title";
+
+/* Class = "UISearchBar"; cax-2G-zjf.scopeButtonTitles[1] = "Title"; ObjectID = "cax-2G-zjf"; */
+"cax-2G-zjf.scopeButtonTitles[1]" = "Title";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "ene-Ga-1q6"; */
+"ene-Ga-1q6.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "kwK-zP-Rr8"; */
+"kwK-zP-Rr8.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "rpH-pB-nTq"; */
+"rpH-pB-nTq.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "tOl-3p-h3A"; */
+"tOl-3p-h3A.text" = "Label";

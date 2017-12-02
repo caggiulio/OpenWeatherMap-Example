@@ -1,0 +1,11 @@
+/* 
+  Localizable.strings
+  weather_test
+
+  Created by nunzio giulio caggegi on 21/11/17.
+  Copyright © 2017 nunzio giulio caggegi. All rights reserved.
+*/
+"search bar" = "Cerca la tua città";
+"sunrise" = "Alba";
+"sunset" = "Tramonto";
+"map button" = "Vedi sulla mappa";
